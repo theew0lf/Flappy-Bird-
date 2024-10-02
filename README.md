@@ -1,1 +1,2 @@
-# Flappy-Bird-
+Flappy Bird Clone is a straightforward 2D game developed in C++ using the SFML library. Players control a static bird, navigating it through a series of pipes by tapping to keep it airborne. The game focuses on timing and precision, as you earn points by successfully passing through gaps in the pipes. While the graphics are static with no animations, the game offers smooth and responsive controls, **but make sure to install the SFML library**
+
